@@ -1,6 +1,6 @@
 # PowerPoint简介
 
->  [百度百科](https://baike.baidu.com/item/Microsoft Office PowerPoint/888571?fr=aladdin)<img src="C:\Users\winnerzr\AppData\Roaming\Typora\typora-user-images\image-20200829204051505.png" alt="image-20200829204051505" style="zoom:8%;" />
+>  [百度百科](https://baike.baidu.com/item/Microsoft Office PowerPoint/888571?fr=aladdin)![image-20200830185611051](https://gitee.com/zr001/writeimges/raw/master/images/image-20200830185611051.png)
 >
 >  Microsoft Office PowerPoint是指[微软公司](https://baike.baidu.com/item/微软公司/732128)的演示文稿[软件](https://baike.baidu.com/item/软件/12053)。
 >
@@ -44,7 +44,7 @@
 >
 >    *.ppt,*.pptx,*.pptm,*.pdf
 
-# PowerPoint打开界面
+# PowerPoint开始界面
 
 ## 开始
 
@@ -72,10 +72,57 @@
 ## 信息
 
 - 保护演示文稿
-  - <img src="https://gitee.com/zr001/writeimges/raw/master/images/image-20200829222943906.png" alt="image-20200829222943906" style="zoom:80%;" />
-  - 
 - 检查演示文稿
 - 版本历史记录
 - 管理演示文稿
 
 ![image-20200829222651653](https://gitee.com/zr001/writeimges/raw/master/images/image-20200829222651653.png)
+
+## 打印
+
+![image-20200830185910843](https://gitee.com/zr001/writeimges/raw/master/images/image-20200830185910843.png)
+
+- 设置
+  - ![image-20200830190120970](https://gitee.com/zr001/writeimges/raw/master/images/image-20200830190120970.png)
+  - 对照/非对照：![image-20200830190317453](https://gitee.com/zr001/writeimges/raw/master/images/image-20200830190317453.png)
+  - 编辑页眉和页脚：![image-20200830190621003](https://gitee.com/zr001/writeimges/raw/master/images/image-20200830190621003.png)
+
+## 导出
+
+可以导出为以下多种格式
+
+![image-20200830190804609](https://gitee.com/zr001/writeimges/raw/master/images/image-20200830190804609.png)
+
+- 可以选择创建视频
+  - 4K
+  - 1080p
+  - ......
+- 创建`gif`
+- 更改文件类型![image-20200830191306133](https://gitee.com/zr001/writeimges/raw/master/images/image-20200830191306133.png)
+
+## 选项
+
+建议设置的选项
+
+- 解决红色波浪线等问题![image-20200830192637349](https://gitee.com/zr001/writeimges/raw/master/images/image-20200830192637349.png)
+
+- 设置保存和模板位置，设置自动备份位置，将字帖嵌入文件，以防他人打开文件异常。![image-20200830192901725](https://gitee.com/zr001/writeimges/raw/master/images/image-20200830192901725.png)
+
+# 选项卡功能介绍
+
+## 开始
+
+- 新建幻灯片
+- 设置幻灯片版式
+
+## 插入
+
+- 缩放定位
+  - **正常PPT的播放是线性的**
+  - **缩放定位的逻辑是非线性的**
+  - ![image-20200830205414834](https://gitee.com/zr001/writeimges/raw/master/images/image-20200830205414834.png)
+  - 推荐软件`Prizi`
+  - 摘要缩放定位：对应的每一张PPT，缩放定位之后会`返回摘要`页面
+  - 节缩放定位：对于每一小节PPT
+  - 幻灯片缩放定位：对应的每一张PPT，缩放定位之后`不返回摘要`页面
+  - 缩放定位产生的`动画`：可以通过调节摘要的角度产生旋转和翻转的效果。
