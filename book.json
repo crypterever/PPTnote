@@ -15,7 +15,8 @@
         "splitter",
         "favicon",
         "mygitalk",
-        "code"
+        "code",
+        "-lunr"
     ],
     "pluginsConfig": {
         "donate": {
